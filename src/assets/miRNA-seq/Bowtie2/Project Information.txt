@@ -1,0 +1,31 @@
+Project ID
+
+xxx
+
+Date
+
+2024/02/21
+
+Institute
+
+長庚大學
+
+Customer
+
+吳啟生
+
+Organism
+
+human
+
+Library Kit
+
+NEB library prep Kit
+
+Genome
+
+GRCh38
+
+miRNA DB
+
+miRBase v22.1
